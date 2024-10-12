@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.notification {
+  color: #4169e1;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  font-weight: bold;
+}
